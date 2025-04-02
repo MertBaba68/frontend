@@ -1,4 +1,4 @@
-const API_BASE_URL = "vodafonebackend-fkdmcedchaa7e3a6.northeurope-01.azurewebsites.net"
+const API_BASE_URL = "https://backend-s16l.onrender.com"
 
 export default {
     API_BASE_URL,
